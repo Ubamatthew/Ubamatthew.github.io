@@ -1,0 +1,6 @@
+---
+title: "About GCC"
+output: html_document
+---
+
+Global Change Connect is a hub concerned about the impact of both anthropogenic and natural activities on the environment and investigating the extect of changes in has resulted to.
